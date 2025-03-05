@@ -1,0 +1,12 @@
+streamlit 
+langchain 
+google-generativeai 
+pandas 
+datetime
+langchain_community
+plotly
+langchain-google-genai
+pdfminer.six
+langchain-text-splitters 
+chromadb 
+nltk
